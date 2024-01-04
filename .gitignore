@@ -1,0 +1,7 @@
+models
+*copy*
+SemanticSprayDataset
+*.bin
+*.label
+__pycache__
+tmp
