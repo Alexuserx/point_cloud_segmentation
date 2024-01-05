@@ -5,3 +5,4 @@ SemanticSprayDataset
 *.label
 __pycache__
 tmp
+all
